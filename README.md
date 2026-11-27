@@ -1,6 +1,6 @@
 # claude-plugins
 
-A catalog of Claude Code plugins by Jose Silva. Each plugin lives in its own repository; this repo only lists them.
+A catalog of Claude Code plugins by José Silva. Each plugin lives in its own repository; this repo only lists them.
 
 ## Add the catalog
 

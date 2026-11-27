@@ -1,8 +1,8 @@
 {
   "name": "zepedrosilva",
-  "description": "Claude Code plugins by Jose Silva, each in its own repository.",
+  "description": "Claude Code plugins by José Silva.",
   "owner": {
-    "name": "Jose Silva",
+    "name": "José Silva",
     "email": "zepedrosilva@users.noreply.github.com"
   },
   "plugins": [
