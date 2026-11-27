@@ -15,7 +15,7 @@
       },
       "displayName": "Brand Studio",
       "description": "Drafts a brand identity for your app as checked SVG, for developers without a design background: concept, mark, wordmark, palette, exports and a brand sheet. Also reviews existing SVG logos against numbered, sourced rules.",
-      "homepage": "https://zepedro.com/brand-studio/",
+      "homepage": "https://zepedro.com/plugins/brand-studio/",
       "repository": "https://github.com/zepedrosilva/brand-studio",
       "license": "MIT",
       "category": "design",
