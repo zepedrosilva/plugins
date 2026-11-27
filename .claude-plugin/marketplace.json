@@ -1,0 +1,25 @@
+{
+  "name": "zepedrosilva",
+  "description": "Claude Code plugins by Jose Silva, each in its own repository.",
+  "owner": {
+    "name": "Jose Silva",
+    "email": "zepedrosilva@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "brand-studio",
+      "source": {
+        "source": "git-subdir",
+        "url": "zepedrosilva/brand-studio",
+        "path": "plugin"
+      },
+      "displayName": "Brand Studio",
+      "description": "Drafts a brand identity for your app as checked SVG, for developers without a design background: concept, mark, wordmark, palette, exports and a brand sheet. Also reviews existing SVG logos against numbered, sourced rules.",
+      "homepage": "https://zepedro.com/brand-studio/",
+      "repository": "https://github.com/zepedrosilva/brand-studio",
+      "license": "MIT",
+      "category": "design",
+      "tags": ["logo", "svg", "branding", "brand-identity", "wordmark", "icons"]
+    }
+  ]
+}
