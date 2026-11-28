@@ -13,6 +13,8 @@ A catalog of Claude Code plugins by José Silva. Each plugin lives in its own re
 | Plugin | Install | What it does |
 |---|---|---|
 | [brand-studio](https://github.com/zepedrosilva/brand-studio) | `/plugin install brand-studio@zepedrosilva` | Drafts a brand identity for your app as checked SVG, for developers without a design background, and reviews existing SVG logos against numbered, sourced rules |
+| [viz-advisor](https://github.com/zepedrosilva/viz-advisor) | `/plugin install viz-advisor@zepedrosilva` | Decides which visual to use in a presentation or an application, and reviews visuals already chosen |
+| [deckhand](https://github.com/zepedrosilva/deckhand) | `/plugin install deckhand@zepedrosilva` | Plans, builds and reviews Stream Deck plugins with the official Elgato SDK |
 
 ## Website
 

@@ -19,7 +19,56 @@
       "repository": "https://github.com/zepedrosilva/brand-studio",
       "license": "MIT",
       "category": "design",
-      "tags": ["logo", "svg", "branding", "brand-identity", "wordmark", "icons"]
+      "tags": [
+        "logo",
+        "svg",
+        "branding",
+        "brand-identity",
+        "wordmark",
+        "icons"
+      ]
+    },
+    {
+      "name": "viz-advisor",
+      "source": {
+        "source": "git-subdir",
+        "url": "zepedrosilva/viz-advisor",
+        "path": "plugin"
+      },
+      "displayName": "Viz Advisor",
+      "description": "Decides which visual to use in a presentation or an application before anyone draws it: a chart, a diagram, a table, a KPI tile or a plain sentence, with the reason, what to avoid and encoding hints. Also reviews visuals already chosen.",
+      "homepage": "https://zepedro.com/plugins/viz-advisor/",
+      "repository": "https://github.com/zepedrosilva/viz-advisor",
+      "license": "MIT",
+      "category": "design",
+      "tags": [
+        "visualization",
+        "charts",
+        "dashboards",
+        "presentations",
+        "diagrams"
+      ]
+    },
+    {
+      "name": "deckhand",
+      "source": {
+        "source": "git-subdir",
+        "url": "zepedrosilva/deckhand",
+        "path": "plugin"
+      },
+      "displayName": "Deckhand",
+      "description": "Plans, builds and reviews Stream Deck plugins with the official Elgato SDK: what keys, dials, touch strips and the Neo infobar can and cannot do, tested TypeScript patterns, and a 50-rule review.",
+      "homepage": "https://zepedro.com/plugins/deckhand/",
+      "repository": "https://github.com/zepedrosilva/deckhand",
+      "license": "MIT",
+      "category": "development",
+      "tags": [
+        "stream-deck",
+        "elgato",
+        "typescript",
+        "plugin",
+        "hardware"
+      ]
     }
   ]
 }
