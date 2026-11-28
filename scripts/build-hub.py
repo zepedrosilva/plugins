@@ -82,6 +82,8 @@ PAGE = """<!doctype html>
     font: 11.5px var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--mute-2); }}
   .footer .logo svg {{ height: 16px; }}
   .footer a:hover {{ color: var(--ink); }}
+  .section > div {{ min-width: 0; }}
+  .footer {{ flex-wrap: wrap; row-gap: 6px; }}
   @media (max-width: 900px) {{ .section {{ grid-template-columns: 1fr; gap: 12px; }} h1 {{ font-size: 58px; }} }}
   @media (max-width: 640px) {{ .page {{ padding: 32px 24px 56px; }} .tagline {{ font-size: 20px; }} }}
 </style>
